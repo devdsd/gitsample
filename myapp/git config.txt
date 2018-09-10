@@ -1,0 +1,7 @@
+Add Userame and Password on GitHub
+git config --global user.name 'Diether Dayondon'
+git config --global user.email 'diether.dayondon@g.msuiit.edu.ph'
+
+push to github
+git remote add origin <url sa imong app>
+git push -u origin master
